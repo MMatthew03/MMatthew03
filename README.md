@@ -1,12 +1,10 @@
 # Hi there, I'm Matthew! 👋
 
-## 🚀 About Me
+## About Me
 I'm a passionate developer constantly learning and exploring new technologies. I focus on building modern web applications and expanding my skills in both frontend and backend development.
 
-- 🔭 I’m currently working on **React Native JS mobile app**
-- 🌱 I’m currently learning **Express** and **Angular**
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
